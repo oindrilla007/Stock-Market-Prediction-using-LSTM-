@@ -1,2 +1,11 @@
-# Stock-Market-Prediction-using-LSTM-
-The **Stock Market Prediction System** uses LSTM networks to analyze historical trends and predict stock prices. By leveraging features like open, high, low, close prices, and volume, it provides accurate forecasts to support informed financial decisions.
+Project Description:  
+Predict stock prices using historical stock data and news sentiment analysis.
+
+Objectives:
+- Download stock data and fetch news headlines.
+- Analyze sentiment of news headlines.
+- Use LSTM to predict stock prices.
+- Visualize predictions and assess feature importance.
+
+Conclusion:  
+The model enhances stock price prediction by incorporating news sentiment along with historical data.
